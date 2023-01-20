@@ -1,0 +1,236 @@
+header {
+	width: 980px;
+	height: 140px;
+	margin-left: 135px;
+	background: gray;
+}
+
+content {
+	width: 695px;
+	height: 450px;
+	float: left;
+	margin-top: 15px;
+	margin-left: 15px;
+}
+
+footer {
+	width: 980px;
+	height: 90px;
+	margin-left: 135px;
+	background: beige;
+	margin-top: 478px;
+}
+
+#lateral {
+	width: 270px;
+	height: 449px;
+	background: #FDF5E6;
+	margin-top: 15px;
+	margin-left: 135px;
+	float: left;
+	border-radius: 5px;
+}
+
+#lateral:hover {
+	background: #C0C0C0;
+}
+
+#lateral-2 {
+	width: 270px;
+	height: 425px;
+	background: #FDF5E6;
+	margin-top: 15px;
+	margin-left: 135px;
+	float: left;
+	border-radius: 5px;
+	position: fixed;
+}
+
+#lateral-2 ul li {
+	list-style: none;
+	display: block;
+	margin-left: -40px;
+	padding: 16px;
+}
+
+#lateral-2:hover {
+	background: #C0C0C0;
+}
+
+#lateral-3 {
+	width: 270px;
+	height: 342px;
+	background: #FDF5E6;
+	margin-top: 15px;
+	margin-left: 135px;
+	float: left;
+	border-radius: 5px;
+	position: fixed;
+}
+
+#lateral-3 ul li {
+	list-style: none;
+	display: block;
+	margin-left: -40px;
+	padding: 10px;
+}
+
+#lateral-3:hover {
+	background: #C0C0C0;
+	border-radius: 5px;
+}
+
+ul li:hover {
+	background: #FDF5E6;
+}
+
+li a:hover {
+	text-decoration: underline;
+}
+
+ul li {
+	list-style: none;
+	display: block;
+	margin-left: -40px;
+	padding: 17.7px;
+}
+
+li a {
+	text-decoration: none;
+	color: #800000;
+}
+
+.conteudo {
+	width: 680px;
+	background: #F2F2F2;
+	text-align: center;
+	margin-left: 420px;
+	margin-top: -19px;
+	border-radius: 5px;
+}
+
+.navRodape {
+	text-align: center;
+	padding-top: 37px;
+}
+
+.navRodape a {
+	margin: 60px;
+	text-decoration: none;
+	color: #800000;
+}
+
+/**************************************************/
+
+.caixaLogoConteudo {
+	width: 550px;
+	height: 330px;
+	margin-left: 70px;
+}
+
+.caixaImagem {
+	width: 250px;
+	height: 250px;
+	margin-left: 222.5px;
+}
+
+/**************************************************/
+
+.titulo {
+	text-align: center;
+	color: #800000;
+}
+
+.tituloJogos {
+	text-align: center;
+	color: #800000;
+}
+
+.tituloConteudoJogos {
+	color: #800000;
+}
+
+.tituloLancamento {
+	text-align: center;
+	color: #800000;
+}
+
+.tituloJogosLancamento {
+	margin-left: 15px;
+	color: #800000;
+}
+
+.tituloJogosLancamento-2 {
+	text-align: right;
+	margin-right: 15px;
+	color: #800000;
+}
+
+/**************************************************/
+
+.imagemRodape {
+	float: left;
+}
+
+.imagemRodape-2 {
+	float: right;
+}
+
+.caixaImagemLancamento {
+	float: left;
+	margin-left: 15px;
+}
+
+.caixaImagemLancamento-2 {
+	float: right;
+	margin-right: 15px;
+}
+
+/**************************************************/
+
+.paragrafoConteudo {
+	text-align: center;
+}
+
+.paragrafoLancamento {
+	margin-left: 15px;
+}
+
+.paragrafoLancamento-2 {
+	margin-top: 50px;
+	margin-left: 15px;
+}
+
+.paragrafoEmpresa {
+	text-align: left;
+	margin-left: 15px;
+}
+
+/**************************************************/
+
+.navLink {
+	width: 961px;
+	background: #FDF5E6;
+	margin-left: 135px;
+	padding: 10px;
+	border-radius: 5px;
+	text-align: center;
+	display: block;
+	margin-top: 15px;
+	position: relative;
+}
+
+.navLink:hover {
+	background: #c0c0c0;
+}
+
+.navLink a {
+	margin: 40px;
+	color: #800000;
+	text-decoration: none;
+}
+
+.navLink a:hover {
+	color: beige;
+}
+
